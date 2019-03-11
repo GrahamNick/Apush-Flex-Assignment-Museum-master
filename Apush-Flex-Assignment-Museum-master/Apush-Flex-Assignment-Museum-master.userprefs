@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\apush text.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\pictureNew.cs">
     <Files>
-      <File FileName="Assets\apush text.txt" Line="22" Column="267" />
+      <File FileName="Assets\apush text.txt" Line="1" Column="1" />
+      <File FileName="Assets\pictureNew.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
